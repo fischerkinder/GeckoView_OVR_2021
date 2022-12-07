@@ -1,0 +1,34 @@
+{
+  "name": "com.xrchisense.components.geckoview",
+  "description": "GeckoView is a browser engine API by Mozilla. It powers their Firefox browser on Android. This demo uses the mozilla provided .aar to display browser content on an OVROverlay in Unity on an Oculus 2 device.",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "unityRelease": "22f1",
+  "displayName": "XRchisense GeckoView Demo",
+  "documentationUrl": "https://xrchisense.de",
+  "keywords": [
+    "browser",
+    "gecko",
+    "mozilla",
+    "oculus2",
+    "demo",
+    "OVROverlay"
+  ],
+  "upm": {
+    "changelog": "### New\n- Initial release."
+  },
+  "author": {
+    "name": "Patrick Tobias Fischer",
+    "email": "ptf@xrchisense.de",
+    "url": "http://xarchisense.de"
+  },
+  "repository": {
+    "url": "https://github.com/fischerkinder/GeckoView_OVR.git",
+    "type": "git",
+    "revision": "6dcddaf"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.xr.management": "4.2.1"
+  }
+}

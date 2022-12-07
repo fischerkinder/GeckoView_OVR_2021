@@ -1,0 +1,175 @@
+{
+    "m_SelectedDeviceId": "1WMHH860GQ1363",
+    "m_SelectedPackage": {
+        "deviceId": "1WMHH860GQ1363",
+        "name": "com.XRchisense.GeckoView_OVR",
+        "processId": 10416,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.GeckoView_OVR",
+            "processId": 20584,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.GeckoView_OVR",
+            "processId": 21156,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.GeckoView_OVR",
+            "processId": 21492,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.GeckoView_OVR",
+            "processId": 21941,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.oculus.shellenv",
+            "processId": 2112,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.GeckoView_OVR",
+            "processId": 22762,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.GeckoView_OVR",
+            "processId": 24081,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.GeckoView_OVR",
+            "processId": 25296,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.GeckoView_OVR",
+            "processId": 26068,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.GeckoView_OVR",
+            "processId": 26991,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.GeckoView_OVR",
+            "processId": 27856,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.GeckoView_OVR",
+            "processId": 28434,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.GeckoView_OVR",
+            "processId": 28998,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.GeckoView_OVR",
+            "processId": 32684,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.GeckoView_OVR",
+            "processId": 4103,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH860GQ1363",
+            "name": "com.XRchisense.GeckoView_OVR",
+            "processId": 10416,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    }
+}
